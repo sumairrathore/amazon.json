@@ -1,0 +1,39 @@
+// JSON Document
+  {
+      "pizzaTypes": [
+          {
+            "name" : "Pepperoni",
+            "price" : 9.75,
+            "size" : "large",
+            "toppings" : [
+              "ch",
+              "pepperoni"
+            ],
+            "image" : "pizza-1.jpg"
+          },
+
+          {
+            "name" : "light",
+            "price" : 12.95,
+            "size" : "small",
+            "toppings" : [
+              "cheese",
+              "ives",
+              "tomatoes",
+              "pineapple"
+            ],
+            "image" : "pizza-2.jpg"
+          },
+          {
+            "name" : "Hawan", 
+            "price" : 10.95,
+            "size" : "large",
+             "toppings" : [
+              "cheese",
+              "ham",
+              "pineapple"
+            ],
+            "image" : "pizza-3.jpg"
+          }
+        ]
+      }
