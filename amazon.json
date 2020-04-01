@@ -1,0 +1,40 @@
+
+	  {
+      "weirdProducts": [
+          {
+            "name" : "A pre-fabricated home in a shipping container",
+            "price" : 36000,
+            "color" : "tin",
+            "baths" : 1,
+            "image" : "tiny-home.jpg"
+          },
+
+          {
+            "name" : "1,500 live ladybugs",
+            "price" : 3.05,
+            "color" : "red",
+            "image" : "live-ladybugs.jpg"
+          },
+          {
+            "name" : "Uranium Ore", 
+            "price" : 39.95,
+            "size" : "small?",
+            "decor" : "amazing",
+            "image" : "uranium-ore.jpg"
+          },
+          {
+          	"name" : "A home mushroom farm",
+          	"price" : 22.85,
+          	"weird?" : "yes, definitely",
+          	"image" : "mushroom.jpg"
+          },
+          {
+          	"name" : "A cat butt tissue holder",
+          	"price" : 34.94,
+          	"tissue" : "not included",
+          	"weird?" : "ummmm yes",
+          	"image" : "cat.jpg"
+          }
+        ]
+      }
+
